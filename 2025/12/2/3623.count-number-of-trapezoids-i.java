@@ -75,6 +75,10 @@
 
 // @lcpr-template-end
 // @lc code=start
+
+import java.util.HashMap;
+import java.util.Map;
+
 class Solution {
     private static final int MOD = 1_000_000_007;
 
