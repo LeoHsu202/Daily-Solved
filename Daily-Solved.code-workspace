@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Daily-Solved",
+			"path": "."
+		},
+		{
+			"name": "leetcode",
+			"path": "../Java/leetcode"
+		}
+	],
+	"settings": {}
+}
